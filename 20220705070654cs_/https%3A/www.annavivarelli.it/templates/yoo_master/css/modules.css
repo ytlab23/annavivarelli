@@ -1,0 +1,63 @@
+/* Copyright (C) YOOtheme GmbH, http://www.gnu.org/licenses/gpl.html GNU/GPL */
+
+@import url(https://web.archive.org/web/20190216185139cs_/https://www.annavivarelli.it/templates/yoo_master/warp/css/modules.css);
+
+
+/* Module Badges
+----------------------------------------------------------------------------------------------------*/
+
+.module .badge {
+	width: 32px;
+	height: 22px;
+	background: url(https://web.archive.org/web/20190216185139im_/https://www.annavivarelli.it/templates/yoo_master/images/module_badges.png) 0 0 no-repeat;
+}
+ 
+.module .badge-hot { background-position: 0 0; }
+.module .badge-top { background-position: 0 -25px; }
+.module .badge-free { background-position: 0 -50px; }
+.module .badge-new { background-position: 0 -75px; }
+
+
+/* Module Icons
+----------------------------------------------------------------------------------------------------*/
+
+.module .module-title .icon { background: url(https://web.archive.org/web/20190216185139im_/https://www.annavivarelli.it/templates/yoo_master/images/module_icons.png) 0 0 no-repeat; }
+
+.module .module-title .icon-download { background-position: 0 0; }
+.module .module-title .icon-twitter { background-position: 0 -30px; }
+.module .module-title .icon-mail { background-position: 0 -60px; }
+.module .module-title .icon-bubble { background-position: 0 -90px; }
+.module .module-title .icon-login { background-position: 0 -120px; }
+.module .module-title .icon-cart { background-position: 0 -150px; }
+
+
+/* Module Type: Box
+----------------------------------------------------------------------------------------------------*/
+
+.mod-box {
+	padding: 15px;
+	border: 1px solid #ddd;
+}
+
+.mod-box .badge { top: 10px; right: 10px; }
+
+
+/*
+     FILE ARCHIVED ON 18:51:39 Feb 16, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:07:26 Feb 02, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.071
+  cdx.remote: 0.116
+  esindex: 0.012
+  LoadShardBlock: 329.462 (6)
+  PetaboxLoader3.datanode: 121.772 (8)
+  PetaboxLoader3.resolve: 147.959 (3)
+  load_resource: 183.868 (2)
+*/
